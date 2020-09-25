@@ -1,6 +1,6 @@
 {
-  "name": "Svelte PWA Tailwind starter",
-  "short_name": "SveltePWAStarter",
+  "name": "Cuisine Selector",
+  "short_name": "CuisineSelector",
   "theme_color": "#5bd1d7",
   "background_color": "#f6f5f5",
   "display": "standalone",
